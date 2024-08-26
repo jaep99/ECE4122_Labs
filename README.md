@@ -1,5 +1,5 @@
 # Georgia Institute of Technology
-ECE 4122 Labs
+Advanced Programming Techniques Labs
 
 ## [Materials]
 - Dynamic Programming\C++ Classes
